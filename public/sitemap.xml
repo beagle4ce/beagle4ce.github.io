@@ -2,6 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://beagle4ce.github.io/ides/i2/</loc>
+    <lastmod>2022-09-30T01:03:43+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/ides/i1/</loc>
+    <lastmod>2022-09-30T01:03:40+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/ides/</loc>
+    <lastmod>2022-09-30T00:54:35+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/articles/a7/</loc>
+    <lastmod>2022-09-29T21:18:24+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/tags/tag3/</loc>
+    <lastmod>2022-09-29T21:18:24+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/tags/</loc>
+    <lastmod>2022-09-29T21:18:24+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/articles/a6/</loc>
+    <lastmod>2022-09-29T21:18:21+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/tags/tag1/</loc>
+    <lastmod>2022-09-29T21:18:21+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/articles/a5/</loc>
+    <lastmod>2022-09-29T21:18:18+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/articles/a4/</loc>
+    <lastmod>2022-09-29T21:18:14+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/tags/tag2/</loc>
+    <lastmod>2022-09-29T21:18:14+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/articles/a3/</loc>
+    <lastmod>2022-09-29T21:18:11+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/articles/a2/</loc>
+    <lastmod>2022-09-29T21:18:08+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/articles/a1/</loc>
+    <lastmod>2022-09-29T21:18:04+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/categories/c1/</loc>
+    <lastmod>2022-09-29T21:18:04+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/categories/</loc>
+    <lastmod>2022-09-29T21:18:04+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/series/s1/</loc>
+    <lastmod>2022-09-29T21:18:04+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://beagle4ce.github.io/series/</loc>
+    <lastmod>2022-09-29T21:18:04+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://beagle4ce.github.io/articles/</loc>
     <lastmod>2022-09-29T16:46:43+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -14,14 +104,6 @@
   </url><url>
     <loc>http://beagle4ce.github.io/about/</loc>
     <lastmod>2022-09-29T16:27:22+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://beagle4ce.github.io/categories/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://beagle4ce.github.io/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
