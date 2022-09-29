@@ -18,6 +18,7 @@ enableRobotsTXT = true
   text_color = ""
   author = "Beagle"
   favicon = "images/avatar_betacat_07.png"
+  # Online image editor: https://www.fotor.com
   site_logo = "images/avatar_betacat_07.png"
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
