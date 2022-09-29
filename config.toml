@@ -46,14 +46,26 @@ enableRobotsTXT = true
 [[menu.main]]
   identifier = "articles"
   name = "Articles"
-  weight = 10
+  weight = 2
   url = "/articles/"
 
 [[menu.main]]
   identifier = "tags"
   name = "Tag"
-  weight = 10
+  weight = 3
   url = "/tags/"
+
+[[menu.main]]
+  identifier = "categories"
+  name = "Category"
+  weight = 4
+  url = "/categories/"
+
+[[menu.main]]
+  identifier = "series"
+  name = "Series"
+  weight = 5
+  url = "/series/"
 
 [[menu.main]]
   identifier = "about"
@@ -61,10 +73,10 @@ enableRobotsTXT = true
   weight = 100
   url = "/about/"
 
-[[menu.main]]
-  identifier = "ides"
-  name = "IDEs"
-  weight = 11
-  # parent = "articles"
-  url = "/ides/"
+# [[menu.main]]
+#   identifier = "ides"
+#   name = "IDEs"
+#   weight = 11
+#   # parent = "articles"
+#   url = "/ides/"
 
