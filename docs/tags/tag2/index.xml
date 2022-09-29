@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag2 on Beagle&#39;s Cottage</title>
+    <link>http://beagle4ce.github.io/tags/tag2/</link>
+    <description>Recent content in tag2 on Beagle&#39;s Cottage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Sep 2022 21:18:14 +0800</lastBuildDate><atom:link href="http://beagle4ce.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A4</title>
+      <link>http://beagle4ce.github.io/articles/a4/</link>
+      <pubDate>Thu, 29 Sep 2022 21:18:14 +0800</pubDate>
+      
+      <guid>http://beagle4ce.github.io/articles/a4/</guid>
+      <description>A4</description>
+    </item>
+    
+    <item>
+      <title>A2</title>
+      <link>http://beagle4ce.github.io/articles/a2/</link>
+      <pubDate>Thu, 29 Sep 2022 21:18:08 +0800</pubDate>
+      
+      <guid>http://beagle4ce.github.io/articles/a2/</guid>
+      <description>A2</description>
+    </item>
+    
+    <item>
+      <title>A1</title>
+      <link>http://beagle4ce.github.io/articles/a1/</link>
+      <pubDate>Thu, 29 Sep 2022 21:18:04 +0800</pubDate>
+      
+      <guid>http://beagle4ce.github.io/articles/a1/</guid>
+      <description>A1</description>
+    </item>
+    
+  </channel>
+</rss>

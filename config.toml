@@ -50,6 +50,12 @@ enableRobotsTXT = true
   url = "/articles/"
 
 [[menu.main]]
+  identifier = "tags"
+  name = "Tag"
+  weight = 10
+  url = "/tags/"
+
+[[menu.main]]
   identifier = "about"
   name = "About"
   weight = 100
