@@ -21,6 +21,11 @@ enableRobotsTXT = true
   category = "categories"
   series = "series"
 
+[markup.tableOfContents]
+  startLevel = 1
+  endLevel = 3
+  ordered = false
+
 
 [params]
   text_color = ""
@@ -47,7 +52,7 @@ enableRobotsTXT = true
   identifier = "articles"
   name = "Articles"
   weight = 2
-  url = "/articles/"
+  url = "/articles/*"
 
 [[menu.main]]
   identifier = "tags"
@@ -73,10 +78,10 @@ enableRobotsTXT = true
   weight = 100
   url = "/about/"
 
-# [[menu.main]]
-#   identifier = "ides"
-#   name = "IDEs"
-#   weight = 11
-#   # parent = "articles"
-#   url = "/ides/"
+[[menu.main]]
+  identifier = "ides1"
+  name = "IDEs1"
+  weight = 1
+  parent = "articles"
+  url = "/articles/ides/"
 

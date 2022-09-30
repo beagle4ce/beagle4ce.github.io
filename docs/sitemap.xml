@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://beagle4ce.github.io/ides/i2/</loc>
+    <loc>http://beagle4ce.github.io/articles/ides/i2/</loc>
     <lastmod>2022-09-30T01:03:43+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://beagle4ce.github.io/ides/i1/</loc>
+    <loc>http://beagle4ce.github.io/articles/ides/i1/</loc>
     <lastmod>2022-09-30T01:03:40+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://beagle4ce.github.io/ides/</loc>
+    <loc>http://beagle4ce.github.io/articles/ides/</loc>
     <lastmod>2022-09-30T00:54:35+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

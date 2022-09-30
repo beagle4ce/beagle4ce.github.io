@@ -9,19 +9,19 @@
     <lastBuildDate>Thu, 29 Sep 2022 16:37:29 +0800</lastBuildDate><atom:link href="http://beagle4ce.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I2</title>
-      <link>http://beagle4ce.github.io/ides/i2/</link>
+      <link>http://beagle4ce.github.io/articles/ides/i2/</link>
       <pubDate>Fri, 30 Sep 2022 01:03:43 +0800</pubDate>
       
-      <guid>http://beagle4ce.github.io/ides/i2/</guid>
+      <guid>http://beagle4ce.github.io/articles/ides/i2/</guid>
       <description>I2</description>
     </item>
     
     <item>
       <title>I1</title>
-      <link>http://beagle4ce.github.io/ides/i1/</link>
+      <link>http://beagle4ce.github.io/articles/ides/i1/</link>
       <pubDate>Fri, 30 Sep 2022 01:03:40 +0800</pubDate>
       
-      <guid>http://beagle4ce.github.io/ides/i1/</guid>
+      <guid>http://beagle4ce.github.io/articles/ides/i1/</guid>
       <description>I1.</description>
     </item>
     
@@ -85,7 +85,11 @@
       <pubDate>Thu, 29 Sep 2022 21:18:04 +0800</pubDate>
       
       <guid>http://beagle4ce.github.io/articles/a1/</guid>
-      <description>A1</description>
+      <description>A1 asdfsadf
+A 1.1 lkjoiwueroiu
+A 1.1.0 oiuordglkfjglk
+A 1.1.1 ioweruoiwuer
+A 1.2 asdfasfgergehrth</description>
     </item>
     
   </channel>
