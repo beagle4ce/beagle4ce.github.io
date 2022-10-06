@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://beagle4ce.github.io/articles/ides/i2/</loc>
-    <lastmod>2022-09-30T01:03:43+08:00</lastmod>
+    <loc>http://beagle4ce.github.io/series/</loc>
+    <lastmod>2022-10-06T20:23:40+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://beagle4ce.github.io/articles/ides/i1/</loc>
-    <lastmod>2022-09-30T01:03:40+08:00</lastmod>
+    <loc>http://beagle4ce.github.io/categories/</loc>
+    <lastmod>2022-10-06T20:23:25+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://beagle4ce.github.io/articles/ides/</loc>
-    <lastmod>2022-09-30T00:54:35+08:00</lastmod>
+    <loc>http://beagle4ce.github.io/tags/</loc>
+    <lastmod>2022-10-06T20:21:39+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -23,11 +23,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://beagle4ce.github.io/tags/tag3/</loc>
-    <lastmod>2022-09-29T21:18:24+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://beagle4ce.github.io/tags/</loc>
     <lastmod>2022-09-29T21:18:24+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -77,17 +72,7 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://beagle4ce.github.io/categories/</loc>
-    <lastmod>2022-09-29T21:18:04+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://beagle4ce.github.io/series/s1/</loc>
-    <lastmod>2022-09-29T21:18:04+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://beagle4ce.github.io/series/</loc>
     <lastmod>2022-09-29T21:18:04+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

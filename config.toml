@@ -10,6 +10,7 @@ DefaultContentLanguage = "en"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+toc = true
 
 [sitemap]
   changefreq = "daily"
@@ -33,7 +34,8 @@ enableRobotsTXT = true
   favicon = "images/avatar_betacat_07.png"
   # Online image editor: https://www.fotor.com
   site_logo = "images/avatar_betacat_07.png"
-  # body_classes = "avenir near-black"
+  # body_class里设置了字体class,字体颜色class和背景class
+  body_classes = "avenir near-black bg-washed-yellow"
   # description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-near-black"
@@ -52,7 +54,7 @@ enableRobotsTXT = true
   identifier = "articles"
   name = "Articles"
   weight = 2
-  url = "/articles/*"
+  url = "/articles/"
 
 [[menu.main]]
   identifier = "tags"
@@ -79,8 +81,8 @@ enableRobotsTXT = true
   url = "/about/"
 
 [[menu.main]]
-  identifier = "ides1"
-  name = "IDEs1"
+  identifier = "ides"
+  name = "IDEs"
   weight = 1
   parent = "articles"
   url = "/articles/ides/"
