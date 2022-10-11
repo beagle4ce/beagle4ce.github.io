@@ -4,7 +4,7 @@ date: 2022-10-11T20:11:04+08:00
 tags: ["认知"]
 categories: ["认知"]
 series: ["个人提升"]
-
+background_color_class: "bg-mid-gray"
 markup:
     tableOfContents:
         startLevel: 1
