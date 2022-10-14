@@ -9,7 +9,7 @@ markup:
         startLevel: 1
         endLevel: 3
         ordered: false
-
+toc: true
 draft: true
 ---
 
@@ -79,10 +79,10 @@ draft: true
 
 lkjoiwueroiu
 
-### 3. 认知能力值可以提升
+## 3. 认知能力值可以提升
 
 oiuordglkfjglk
 
-### 4.认知能力值会下降
+## 4.认知能力值会下降
 
 ioweruoiwuer

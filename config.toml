@@ -24,12 +24,14 @@ toc = true
 
 [markup.tableOfContents]
   startLevel = 1
-  endLevel = 3
-  ordered = false
+  endLevel = 2
+  ordered = true
 
+[markup.highlight]
+  codeFences = true
 
 [params]
-  text_color = ""
+  text_color = "black"
   author = "Beagle"
   favicon = "images/avatar_betacat_07.png"
   # Online image editor: https://www.fotor.com
