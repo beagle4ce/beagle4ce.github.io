@@ -4,13 +4,12 @@ title = "Beagle's Cottage"
 theme = "ananke"
 
 
-
 DefaultContentLanguage = "en"
 # SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-toc = true
+
 
 [sitemap]
   changefreq = "daily"
@@ -28,7 +27,18 @@ toc = true
   ordered = true
 
 [markup.highlight]
+  style = "monokai"
+  anchorLineNos = false
   codeFences = true
+  guessSyntax = false
+  hl_Lines = ''
+  hl_inline = false
+  lineAnchors = ''
+  lineNoStart = 1
+  lineNos = true
+  lineNumbersInTable = false
+  noClasses = true
+  noHl = false
 
 [params]
   text_color = "black"
