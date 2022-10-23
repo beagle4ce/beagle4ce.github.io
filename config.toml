@@ -27,14 +27,16 @@ enableRobotsTXT = true
   ordered = true
 
 [markup.highlight]
+  # Chroma Style Gallery: https://xyproto.github.io/splash/docs/
   style = "monokai"
   anchorLineNos = false
   codeFences = true
   guessSyntax = false
-  hl_Lines = ''
-  hl_inline = false
-  lineAnchors = ''
-  lineNoStart = 1
+  # hl_Lines = ''
+  # hl_inline = false
+  # lineAnchors = ''
+  # lineNoStart = 1
+  # tabWidth = 4
   lineNos = true
   lineNumbersInTable = false
   noClasses = true
