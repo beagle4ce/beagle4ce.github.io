@@ -23,7 +23,7 @@ draft: true
 
 所以如此看来,年龄不是人类等级的体现.
 
-![](/images/earthonline/age.jpg)
+![img](/images/earthonline/age.jpg)
 
 ### 金钱
 
@@ -41,7 +41,7 @@ draft: true
 
 所以金钱不是人类等级的体现.
 
-![](/images/earthonline/goldenCoins.jpg)
+![img](/images/earthonline/goldenCoins.jpg)
 
 ### 权力
 
@@ -55,7 +55,7 @@ draft: true
 
 所以权力也不是人类等级的体现.
 
-![](/images/earthonline/power.jpg)
+![img](/images/earthonline/power.jpg)
 
 ### 学历
 
@@ -69,7 +69,7 @@ draft: true
 
 所以学历不是人类等级的体现.
 
-![](/images/earthonline/xueli.jpg)
+![img](/images/earthonline/xueli.jpg)
 
 ### 认知
 
@@ -87,17 +87,17 @@ draft: true
 
 所以在我的认知里,认知才是地球Online里每个角色等级的体现.
 
-![](/images/earthonline/consciousness.jpg)
+![img](/images/earthonline/consciousness.jpg)
 
 ## 2. 认知能力值每天有限
 
 认知能力可以看做两次睡眠之间的可用认知能力值.不同的人有高有低.而值的高低决定了认知能力的高低.两次睡眠之间可用的认知能力值是有限的,超过后几乎就没有什么认知了,表现为快睡着或反应大幅降低,学习效率和思考效率低下的状态.
 
-![](/images/earthonline/battery.jpg)
+![img](/images/earthonline/battery.jpg)
 
 生活中各种事物会消耗认知能力值,例如学习,工作,家务,运动等.不同的事物所需要消耗的认知能力值是不一样的.在学习一个很难需要大量逻辑推理或记忆的知识点时,需要消耗的认知能力值就很多.又如,尝试做一个从未做过的家务活,也需要消耗比熟练时更多的认知能力值.
 
-![](/images/earthonline/learning.jpg)
+![img](/images/earthonline/learning.jpg)
 
 这里以驾驶小汽车的技能为例窥视一下认知能力值是如何被消耗的.这里假设一个人每天有100点的认知能力值.
 
@@ -110,7 +110,7 @@ draft: true
 
 > 注意: 认知能力值 ≠ 精力值 !!!
 
-![](/images/earthonline/driving.jpg)
+![img](/images/earthonline/driving.jpg)
 
 ## 3. 认知能力值可以提升
 
