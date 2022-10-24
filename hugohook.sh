@@ -1,9 +1,10 @@
 #!/bin/sh
+
 echo 'Start hugo hook'
 
 hugo -D
 
-echo '\n\n'
+echo '\n return code is: $? \n'
 
 cp -R public/* docs/
 
