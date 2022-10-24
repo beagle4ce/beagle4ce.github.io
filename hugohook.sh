@@ -1,9 +1,10 @@
 #!/bin/sh
 
-echo 'Start hugo hook'
+echo 'Start hugo hook\n'
 
 hugo -D
 
+# $? 的含义是获取上一个命令执行的返回值.
 if $? > 0
 then
     exit 1
@@ -28,5 +29,7 @@ if $? > 0
 then
     exit 1
 fi
+
+echo '\n'
 
 echo 'Finished'
