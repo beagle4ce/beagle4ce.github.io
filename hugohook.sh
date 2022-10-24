@@ -4,7 +4,9 @@ echo 'Start hugo hook'
 
 hugo -D
 
-echo '\n return code is: $? \n'
+echo '\n return code is: '
+
+echo $?
 
 cp -R public/* docs/
 
