@@ -1,15 +1,15 @@
 ---
-title: "关于社会上人类等级"
-# summary: “探索人类社会的等级究竟是什么?”
+title: "关于人类社会等级"
+# summary: “探索人类社会的等级究竟”
 date: 2022-10-11T20:11:04+08:00
 tags: ["认知","感悟"]
 categories: ["认知"]
 series: ["个人提升"]
-markup:
-    tableOfContents:
-        startLevel: 1
-        endLevel: 3
-        ordered: false
+# markup:
+#     tableOfContents:
+#         startLevel: 1
+#         endLevel: 3
+#         ordered: false
 toc: true
 draft: true
 ---

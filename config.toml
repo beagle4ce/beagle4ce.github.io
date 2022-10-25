@@ -9,7 +9,7 @@ DefaultContentLanguage = "en"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-summaryLength = 3
+summaryLength = 3 # setup rows number
 
 
 [sitemap]
@@ -24,7 +24,7 @@ summaryLength = 3
 
 [markup.tableOfContents]
   startLevel = 1
-  endLevel = 2
+  endLevel = 3
   ordered = true
 
 [markup.highlight]
