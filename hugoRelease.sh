@@ -25,19 +25,13 @@ git add .
 git commit -am "Upload new posts or updated to github."
 
 # echo '===============' + $?
-if (($? > 0))
-then
-    exit 1
-fi
-
-echo '\n\n'
 
 # 推送
 git push origin main
 
 # echo '===============' + $?
 
-if (($? > 0))
+if [ $? -gt 0 ]
 then
     exit 1
 fi
