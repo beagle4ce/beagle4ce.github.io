@@ -16,9 +16,9 @@ draft: false
 
 ---
 
-8年工作经验,3年团队项目管理经验;
+8年开发工作经验,3年团队项目管理经验;
 
-有独立负责业务线,架构设计,产品规划,客户沟通的综合经验;
+有独立负责业务线,架构设计,产品规划,跨部门协作,海外客户沟通等综合经验;
 
 ---
 
@@ -30,8 +30,8 @@ draft: false
 
 | Way | Value |
 | :---: | :---: |
-| 邮箱[主]: | beagle4ce@gmail.com |
-| 邮箱[副]: | knight4ce@aliyun.com |
-| 博客: | beagle4ce.github.io |
-| 手机: | +86-153-0801-1306 |
-| 微信: | 同手机号 |
+| E-Mail[Main]: | beagle4ce@gmail.com |
+| E-Mail[Vice]: | knight4ce@aliyun.com |
+| Blog: | beagle4ce.github.io |
+| Cell: | +86-153-0801-1306 |
+| WeChat: | Same as cell number |
