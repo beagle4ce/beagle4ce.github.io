@@ -140,6 +140,8 @@ draft: true
 
 ![img](/images/earthonline/headache.jpg)
 
+---
+
 ## 3. 恢复
 
 ### 睡眠
@@ -164,6 +166,8 @@ draft: true
 
 ![img](/images/earthonline/battery-charger-icon.jpg)
 
+---
+
 ## 4. 提升
 
 ### 学习&思考
@@ -181,6 +185,8 @@ draft: true
 ![img](/images/earthonline/driving.jpg)
 
 可以降低某一行为所消耗的认知能力值下线
+
+---
 
 ## 5.下降
 
