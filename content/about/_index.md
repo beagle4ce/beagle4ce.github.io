@@ -24,7 +24,7 @@ draft: false
 
 熟悉Java 和 Golang 后台系统编程相关技术.
 
-熟悉信息发布,广告规划,OA,CRM等B端产品业务系统设计与开发.
+参与过信息发布,广告规划,OA,CRM等B端产品业务系统设计与开发.
 
 ## Contact
 
