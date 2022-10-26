@@ -1,6 +1,7 @@
 ---
 title: "关于人类社会等级"
 # summary: “探索人类社会的等级究竟”
+featured_image: '/images/earthonline/consciousness.jpg'
 date: 2022-10-11T20:11:04+08:00
 tags: ["认知","感悟"]
 categories: ["认知"]
@@ -11,7 +12,7 @@ series: ["个人提升"]
 #         endLevel: 3
 #         ordered: false
 toc: true
-draft: true
+draft: false
 ---
 
 人类社会里,人类的等级究竟是有什么决定的?这个等级是如何运作的?此篇博文是我对这个问题思考的总结.从我的个人经历和认知出发,分层次分模块的阐述我的个人观点.
