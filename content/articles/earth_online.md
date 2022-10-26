@@ -194,4 +194,4 @@ draft: true
 
 多巴胺长时间浓度过高是认知能力值降低的关键因素,例子:刷抖音,小红书,B站等短视频.
 
-![img](../../static/images/earthonline/decline-graph.jpg)
+![img](/images/earthonline/decline-graph.jpg)
