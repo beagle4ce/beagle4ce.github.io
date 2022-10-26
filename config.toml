@@ -95,11 +95,3 @@ summaryLength = 3 # setup rows number
   name = "About"
   weight = 100
   url = "/about/"
-
-[[menu.main]]
-  identifier = "ides"
-  name = "IDEs"
-  weight = 1
-  parent = "articles"
-  url = "/articles/ides/"
-
