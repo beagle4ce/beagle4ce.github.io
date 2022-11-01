@@ -19,6 +19,6 @@ draft: false
 
 之后也会推出系列博客,分享给大家.
 
-> 对于博客的错误不足和意见建议,欢迎各路大神发 ***[ISSUES](https://github.com/beagle4ce/beagle4ce.github.io/issues)*** 告诉我.
+> 对于博客的错误不足和意见建议,欢迎各路大神发 ***[ISSUES](https://github.com/beagle4ce/beagle4ce.github.io/issues)*** ,我会及时修正.
 
 ![img](/images/welcome/img.png)
