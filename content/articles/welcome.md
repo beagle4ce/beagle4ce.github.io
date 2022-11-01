@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "[Top]Welcome"
 description: "第一篇博客, 欢迎大家的光临!"
 summary: “大吉大利,今晚开博!!!”
 featured_image: '/images/welcome/title.jpg'
