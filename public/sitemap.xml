@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://beagle4ce.github.io/articles/welcome/</loc>
+    <lastmod>2022-08-21T21:18:08+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://beagle4ce.github.io/series/%E4%B8%AA%E4%BA%BA%E6%8F%90%E5%8D%87/</loc>
     <lastmod>2022-10-11T20:11:04+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -54,11 +59,6 @@
   </url><url>
     <loc>http://beagle4ce.github.io/about/</loc>
     <lastmod>2022-09-29T16:27:22+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://beagle4ce.github.io/articles/welcome/</loc>
-    <lastmod>2022-08-21T21:18:08+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
